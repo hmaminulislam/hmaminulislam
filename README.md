@@ -1,5 +1,5 @@
 ### Hi there 👋, My name is Aminul Islam
-#### Mern Stack Developer || Frontend Developer
+#### React Js Developer
 ![Mern Stack Developer || Frontend Developer](https://i.ibb.co/zRN7vVM/github-bannder.png)
 
 I have been working in Web Development for 1 year +. I will create any kind of Costom Codding and WordPress website according to your needs. I complete all my projects with absolute devotion and perfection. I provide the best customer support and unlimited correction until the buyer is 100% satisfied with the final product. .
